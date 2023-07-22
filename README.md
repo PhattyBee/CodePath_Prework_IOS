@@ -1,4 +1,3 @@
-# CodePath_ios_Prework
 # Prework - IOS-backgroundColor changer
 
 Submitted by: Charles Liu
